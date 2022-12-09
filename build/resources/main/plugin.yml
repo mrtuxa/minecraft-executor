@@ -1,0 +1,13 @@
+main: space.dezentrale.Main
+name: Executor
+version: 0.0.1
+description: Do secret things
+api-version: 1.8
+load: POSTWORLD
+author: mrtuxa
+website: mrtuxa.space
+commands:
+  uname:
+    description: "runs a command"
+    usage: uname
+default-permission: true
